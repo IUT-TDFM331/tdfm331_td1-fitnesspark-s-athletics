@@ -46,6 +46,6 @@ codes couvert/non couverts par les tests.
 
 ## Contributors 
 - GALLICE Evan
-- BONDET Antoine
+- BONDET Antoine 
 - ESTRADA Yves-Robert
 
